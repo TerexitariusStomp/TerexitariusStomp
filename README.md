@@ -30,16 +30,18 @@ environmental economics; working in Web3 since 2021.
 - **[climate-week-search](https://terexitariusstomp.github.io/climate-week-search/)** —
   semantic search over 975 NYC Climate Week 2026 videos; ask a question,
   jump to the exact moment it was said
+- **[comeunity](https://github.com/TerexitariusStomp/comeunity)** —
+  interactive map of 1,800+ intentional communities accepting volunteers
+  and visitors
 - **[agritrace](https://github.com/TerexitariusStomp/agritrace)** —
   AgroTrace: agroforestry supply-chain traceability
 - **[BrazilCommunityCurrency](https://github.com/TerexitariusStomp/BrazilCommunityCurrency)** —
-  community currency platforms for Brazil
-- **[Mutiraon](https://github.com/TerexitariusStomp/Mutiraon)** —
-  multi-collateral stablecoin protocol
-- **[comeunity](https://github.com/TerexitariusStomp/comeunity)** —
-  map of 1,800+ intentional communities
+  community currency platform for Brazil with bank-backed tokens
 - **[bridgew2w3](https://github.com/TerexitariusStomp/bridgew2w3)** —
   P2P bridge moving carbon credits from web2 registries to Hedera
+- **[widespread-logos](https://github.com/TerexitariusStomp/widespread-logos)** —
+  privacy-preserving wallet for the Logos network: encrypted key
+  custody and approval-gated signing
 
 ## Background
 
