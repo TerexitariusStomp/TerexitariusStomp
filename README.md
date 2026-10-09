@@ -54,6 +54,17 @@ economics; working in Web3 since 2021.
 [CV](https://drive.google.com/file/d/1hPi3cy2o3pkHDCjZwPv64HzaRKza6aSk/view) ·
 [X](https://x.com/Terexitarius) · terexmaps@gmail.com
 
+### Tech-wizard bio (for decks)
+
+> A GIS-trained environmental economist who became a full-stack blockchain
+> engineer. As Chief Science Officer at Azos Labs he connected $57M+ of
+> environmental assets and mapped paths to $2B more. He built Avano's
+> decentralized monitoring-and-verification network to 75+ people in two
+> months, ships production smart contracts on Base, and runs defi4refi — a
+> public-goods studio that builds free, audit-ready protocol codebases for
+> ReFi teams. His systems turn stories into attestations and funding into
+> flowing streams.
+
 ### What I work on
 
 - **Regenerative finance** — funding models that pay for ecosystem
