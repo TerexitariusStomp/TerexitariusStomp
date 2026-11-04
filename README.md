@@ -79,6 +79,8 @@ economics; working in Web3 since 2021.
 
 ### Selected work
 
+- **[conference-search](https://terexitariusstomp.github.io/conference-search/)** —
+  one semantic search across all nine talk archives below
 - **[climate-week-search](https://terexitariusstomp.github.io/climate-week-search/)** —
   semantic search over 975 NYC Climate Week 2026 videos
 - **[funding-the-commons-search](https://terexitariusstomp.github.io/funding-the-commons-search/)** —
