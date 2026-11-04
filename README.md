@@ -81,6 +81,22 @@ economics; working in Web3 since 2021.
 
 - **[climate-week-search](https://terexitariusstomp.github.io/climate-week-search/)** —
   semantic search over 975 NYC Climate Week 2026 videos
+- **[funding-the-commons-search](https://terexitariusstomp.github.io/funding-the-commons-search/)** —
+  semantic search across every Funding the Commons conference
+- **[unfccc-search](https://terexitariusstomp.github.io/unfccc-search/)** —
+  semantic search across UN COP sessions and regional Climate Weeks
+- **[bioneers-search](https://terexitariusstomp.github.io/bioneers-search/)** —
+  semantic search across a decade of Bioneers conference talks
+- **[glf-search](https://terexitariusstomp.github.io/glf-search/)** —
+  semantic search across Global Landscapes Forum events
+- **[earthx-search](https://terexitariusstomp.github.io/earthx-search/)** —
+  semantic search across EarthX symposiums and workshops
+- **[ethdenver-search](https://terexitariusstomp.github.io/ethdenver-search/)** —
+  semantic search across ETHDenver talks and summits
+- **[savory-search](https://terexitariusstomp.github.io/savory-search/)** —
+  semantic search across the Savory holistic-management archive
+- **[refi-search](https://terexitariusstomp.github.io/refi-search/)** —
+  semantic search across ReFi Week, Local Node sessions and the ReFi Podcast
 - **[comeunity](https://github.com/TerexitariusStomp/comeunity)** —
   interactive map of 1,800+ intentional communities
 - **[agritrace](https://github.com/TerexitariusStomp/agritrace)** —
